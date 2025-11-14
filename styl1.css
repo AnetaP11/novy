@@ -1,0 +1,33 @@
+h1{color:#FF91BA;
+font: size 40px;
+background-color: #FFD4D4;
+text-align: center;}
+
+img{width: 400px;
+    float: right;
+  margin-right: 100px;}
+.prvni{text-align: center;
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: bisque;}
+
+     h2{color: fuchsia;
+    text-align: center;}
+
+     nav{width: 200px;
+        margin-right: auto;
+      padding: 5px;}
+      .treti{border: solid pink;
+    padding: 30px 35px;
+margin: 30px;}
+.text{  text-align: center;
+  margin: 20px;;}
+  .jedna{text-align: left;}
+   
+
+.tabulka{color: #FF91BA;}
+
+.cmg{color:#FF91BA;
+  font: size 40px;
+  background-color: #FFD4D4;
+  text-align: center;}
